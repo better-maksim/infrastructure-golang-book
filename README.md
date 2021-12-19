@@ -15,7 +15,7 @@
 
 ## 大纲
 
-![image-20211207143645260](/Users/guozhu/Documents/micro-service/_media/base-architecture-sketch.png)
+![image-20211207143645260](./_media/base-architecture-sketch.png)
 
 这本电子书将围绕着这张图上的内容进行逐一讲解，甚至是从 0 到 1 的实现这一整套基础架构。
 
@@ -25,4 +25,4 @@
 
 ## 赞助作者
 
-![image-20211208163230053](/Users/guozhu/Library/Application Support/typora-user-images/image-20211208163230053.png)
+![image-20211208163230053](./_media/image-20211208163230053.png)
