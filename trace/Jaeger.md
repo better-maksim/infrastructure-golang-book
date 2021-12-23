@@ -6,8 +6,6 @@
 docker run --rm --name jager -p6831:6831/udp -p16686:16686 jaegertracing/all-in-one:latest
 ```
 
-
-
 安装后访问：http://localhost:16686
 
 ![image-20211206220826865](/Users/guozhu/Library/Application Support/typora-user-images/image-20211206220826865.png)

@@ -21,7 +21,7 @@
 
 ##  勘误
 
- [README.md](README.md) e-mail:guozhu123@outlook.com
+e-mail:guozhu123@outlook.com
 
 ## 赞助作者
 
